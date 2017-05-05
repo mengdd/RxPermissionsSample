@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RxPermissionsSample</string>
+    <string name="enable_camera">Enable Camera</string>
 </resources>
