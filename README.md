@@ -14,6 +14,8 @@ How to reproduce the issue:
 
 
 
+Issue reported here:
+https://github.com/tbruyelle/RxPermissions/issues/61
 
 
 
